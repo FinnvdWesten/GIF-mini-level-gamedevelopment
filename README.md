@@ -1,3 +1,5 @@
 # GIF-mini-level-gamedevelopment
 
-![alt gif minilevel](gifs/miniLevel.gif)
+Dit is de bijgewerkte gif!
+
+![alt gif minilevel](gifs/minilevelfix.gif)
